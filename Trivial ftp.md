@@ -26,4 +26,3 @@ Download file pdf về và mở file để lấy flag
 
 ![image](https://github.com/hoanga2dtk68/cookiehanhoanss2/assets/110059218/3e81fad3-df95-4ace-b8c1-3df115f8fcad)
 `flag: CHH{FTP_4nd_TFTP_4r3_b0th_un$af3}`
-CHH{FTP_4nd_TFTP_4r3_b0th_un$af3}
