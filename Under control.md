@@ -28,7 +28,8 @@ Có 2 lần dùng msgbox để hiện lên các thông báo khi mở excel bên 
 
 Thực hiện gọi hàm convert và get từ url đó và lưu vào biến và mình dùng code python để convert về để lấy url
 
-```def decode_string(input_string):
+```
+def decode_string(input_string):
     charset = " ?!@#$%^&*()_+|0123456789abcdefghijklmnopqrstuvwxyz.,-~ABCDEFGHIJKLMNOPQRSTUVWXYZ¿¡²³ÀÁÂÃÄÅÒÓÔÕÖÙÛÜàáâãäåØ¶§Ú¥"
     mapping = "ãXL1lYU~Ùä,Ca²ZfÃ@dO-cq³áÕsÄJV9AQnvbj0Å7WI!RBg§Ho?K_F3.Óp¥ÖePâzk¶ÛNØ%G mÜ^M&+¡#4)uÀrt8(ÒSw|T*Â$EåyhiÚx65Dà¿2ÁÔ"
     
